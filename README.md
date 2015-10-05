@@ -1,8 +1,8 @@
 # gceschat
 GCES Chat
-
-This is a Java Based GUI Client Server Application. Basically Build to enable text exchange purpose with the Clients who have joined on the same server.
-
+<br />
+This is a Java Based GUI Client Server Application. Basically Build to enable text exchange purpose with the Clients who have joined on the same server.<br />
+<br />
 Basic Feature that We are targeting to do are:
 1) Building A Userfriendly Client UI
 2) Client can sent text.
