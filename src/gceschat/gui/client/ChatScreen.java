@@ -105,10 +105,14 @@ public class ChatScreen extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
+<<<<<<< HEAD:src/gceschat/gui/client/ChatScreen.java
     /**
      * @param args the command line arguments
      */
    
+=======
+    
+>>>>>>> 089bb5ffac0c943faadaf40ac95ffd70b2297d8f:src/gceschat/gui/ChatScreen.java
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton Connect;
     private javax.swing.JButton btn_disconnect;
