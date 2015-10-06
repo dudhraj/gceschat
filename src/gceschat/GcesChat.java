@@ -5,8 +5,6 @@
  */
 package gceschat;
 
-import gceschat.gui.client.ChatScreen;
-
 /**
  *
  * @author Binod
@@ -18,7 +16,7 @@ public class GcesChat {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    	new ChatScreen().setVisible(true);
+//    	new ChatScreen().setVisible(true);
     }
     
 }

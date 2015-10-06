@@ -1,4 +1,4 @@
-package controller.server;
+package gceschat.controller.server;
 
 public class Server {
 

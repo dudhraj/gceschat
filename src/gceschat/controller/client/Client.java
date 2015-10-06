@@ -1,4 +1,4 @@
-package controller.client;
+package gceschat.controller.client;
 
 public class Client {
 
