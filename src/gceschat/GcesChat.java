@@ -5,7 +5,7 @@
  */
 package gceschat;
 
-import gceschat.gui.ChatScreen;
+import gceschat.gui.client.ChatScreen;
 
 /**
  *
